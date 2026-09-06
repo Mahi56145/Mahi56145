@@ -1,170 +1,201 @@
 # 👋 Hi, I'm Mahipal
 
-🎓 2nd-year B.Tech CSE (AI & ML) student at **SRM Institute of Science and Technology, Vadapalani**  
-💻 Software Developer | AI & ML Enthusiast | Full-Stack & Java Developer  
+### B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology
+
+**Data Science • Machine Learning • Computer Vision • Software Development**
+
 📍 Chennai, India  
-📧 mahipalmail02@gmail.com  
-
-I enjoy building practical, real-world software — from ML-powered web apps to scalable backend systems and Java desktop applications.  
-Currently strengthening **Data Structures & Algorithms** while building industry-oriented projects.
+🎓 CGPA: **9.76/10**  
+💻 **550+** coding problems solved across GeeksforGeeks & LeetCode
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-**Languages**
-- Java, Python, C++, SQL  
+I'm a **Computer Science & Engineering student specializing in AI & ML**, interested in Data Science, Data Analytics, Machine Learning and practical software development.
 
-**Frameworks & Tools**
-- JavaFX, Spring Boot, REST APIs  
-- React, TypeScript, Tailwind CSS  
-- Flask, Pandas, NumPy, Scikit-learn  
-- Docker, Maven, Vercel, Render  
+I enjoy building projects involving **predictive modeling, computer vision, OCR/NLP-oriented document processing and data-driven applications**, while continuously strengthening DSA and core computer science fundamentals.
 
-**Core CS**
-- Data Structures & Algorithms  
-- OOP, DBMS, OS concepts  
-
-**Developer Tools**
-- Git, GitHub, VS Code  
+I believe in learning by building, improving through practice, and developing strong technical foundations.
 
 ---
 
-## 🏗 Featured Projects
+## 🛠️ Skills
 
-### 💸 Expense Tracker (Python)
-A personal finance tracker with automated SMS parsing & support for multi-wallet balance tracking.  
-- CSV/JSON based secure storage  
-- Expense categorization & filtering  
-- Clean modular code following PEP-8  
+### Programming
 
-🔗 Repo: *(Public on GitHub)*  
+- Python
+- Java
+- C++
+- C
+- SQL
 
+### AI / Machine Learning
 
----
+- Machine Learning
+- Predictive Modeling
+- Data Analysis
+- Computer Vision
+- Anomaly Detection
+- OCR / NLP concepts
+- Dataset Exploration
 
-### 📧 Golden Email Client — JavaFX Desktop Application
-Desktop email client with secure Gmail login and IMAP/SMTP support.
+### Development & Databases
 
-**Built With:** Java, JavaFX, Maven, Jakarta Mail  
-✔ Inbox viewing  
-✔ Email composition + attachments  
-✔ Dark / Light Mode  
-✔ Background threaded mail delivery  
+- Flask
+- MySQL
+- SQLite
+- MongoDB
 
+### Tools
 
----
-
-### 🧠 CredNexis — ML Credit Risk Prediction System
-🔗 https://crednexis.vercel.app  
-
-- Full-stack ML web application  
-- Random Forest model  
-- REST backend on Render  
-- Frontend deployed on Vercel  
-- Real-time API-driven inference  
-
+- Git & GitHub
+- Linux
 
 ---
 
-### 🌤 WeatherNow — Full-Stack Weather Web App
-🔗 https://weathernow-n041.onrender.com  
+## 🚧 Currently Building
 
-- Backend: Spring Boot REST API  
-- Frontend: React + Tailwind  
-- Dockerized + cloud-deployed  
-- Real-time weather data  
+### 🔍 EagleEye — Intelligent Industrial Visual Inspection & Automated Defect Reporting
 
+Developing an image-based anomaly-detection system to distinguish normal and defective industrial samples, localize suspicious regions, estimate anomaly severity and support automated defect reporting.
 
----
+**Status:** 🚧 In Development
 
-### 🌾 KRISHI360 — Smart Agriculture Platform (SIH Prototype)
-🔗 https://krishi360.vercel.app  
+### 🌾 KSHETRA-Intelligent Land Record Digitization & Validation System — SIH
 
-- AI-based advisory & analytics  
-- Farmer-centric smart insights  
-- System & data flow co-designed during hackathon  
+Building an AI-powered pipeline to extract structured information from scanned, handwritten and legacy land records using **OCR, Computer Vision, NLP and ML**.
 
+The system is being designed around confidence-based validation, business-rule checks, duplicate detection and human-assisted verification.
 
----
+**Status:** 🚧 ~50% Built
 
-### 🧵 FileCompressionTool (C++)
-Multithreaded compression tool designed during C++ internship.
+### 🧪 Digital Companion for Field Drug Testing — SIH
 
-- File handling  
-- Parallel processing  
-- Command-line tool  
+Upcoming computer-vision application for capturing colorimetric field-test results, calibrating images using an in-frame reference colour card and classifying outcomes as positive, negative or inconclusive.
 
+Also designing tamper-evident digital records containing timestamp, GPS location, operator ID and a cryptographic image hash.
+
+**Status:** 🔜 Starting Soon
 
 ---
 
-### 🧮 Arithmetic Compiler (C++)
-Mini expression compiler designed from scratch.
+## ⭐ Projects
 
----
+### 🧠 [CredNexis](https://github.com/Mahi56145/Crednexis)
 
-## 💼 Experience
+**Credit Card Default Prediction | Python • Machine Learning**
 
-### 🧑‍💻 Data Science & ML Intern — YBI Foundation  
-📅 Dec 2025 | Duration: 2 Weeks  
-- Hands-on EDA, preprocessing, ML workflows  
-- Pandas, NumPy, Scikit-learn  
-- Real-world dataset understanding  
+- Built a machine-learning workflow to predict credit-card default from structured customer data.
+- Prepared input data and trained a predictive model.
+- Implemented predictions for new customer records.
 
-### ☕ Java Development Intern — CodeClause  
-📅 Dec 2025 – Jan 2026 | Duration: 1 Month  
-- Built Java-based applications  
-- OOP, design & debugging practice  
-- Industry-style development workflow  
+### 🧬 [NeuroRift](https://github.com/Mahi56145/NeuroRift)
 
-### 🏢 Virtual Experience Programs
-- Deloitte Australia — Data Analytics (Dec 2025)  
-- J.P. Morgan — Software Engineering (Dec 2025)  
-- Google Cloud — Gen AI Academy 2.0  
+**AI/ML Dataset Explorer | Python • Flask • SQLite**
+
+- Built an AI/ML dataset exploration application.
+- Implemented dataset search and metadata management.
+- Used SQLite for structured storage and retrieval of dataset information.
+
+### 📧 [Golden Email Client](https://github.com/Mahi56145/GoldenEmailClient)
+
+**Desktop Email Client | Java • JavaFX • IMAP/SMTP**
+
+- Built a desktop email client with Gmail authentication.
+- Integrated IMAP/SMTP for email operations.
+- Developed the desktop interface using JavaFX.
+
+### ⛽ IVFUEL — IoT Fuel Monitoring System
+
+**IoT • ACEHacks'25**
+
+- Developed an IoT-based fuel tank cap prototype to measure fuel quantity and density at fuel stations.
+- Worked with the team on the prototype and led preparation of presentation decks across all three evaluation rounds.
+- **1st-place winning project**, selected through an initial screening of 220+ teams.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **ACE HACKS Winner (Mar 2025)** – SRM  
-- 🥇 **Python Puzzle Hunt Winner — WHHC SRM**  
-- 🥇 **Vertex Innovate Winner 2025 — VIT Vellore**  
+- 🥇 **1st Place — ACEHacks'25**; team of 4, with 220+ teams in the initial screening.
+- 🥇 **Winner — MINES Non-Technical Event.**
+- 💻 **550+ coding problems solved** across GeeksforGeeks and LeetCode.
+- 🏆 **GeeksforGeeks Institute Rank 3** with a Coding Score of **1185**.
+- 📈 **76+ LeetCode problems solved.**
+- 🎓 **9.76/10 CGPA** at SRM Institute of Science and Technology.
+
+---
+
+## 💼 Project-Based Internships
+
+- **YBI Foundation** — Data Science & Machine Learning | 2 weeks
+- **CodeClause** — Java Development | 1 month
+- **CodeTech** — C++ Development | 1 month
 
 ---
 
 ## 📚 Certifications
 
-- C++ Programming — CODTECH IT Solutions  
-- Python — IIP & IIT Bombay  
-- NPTEL: OOP, Design Thinking  
-- Coursera: Data Structures in C  
-- Bootcamp — Exploratory Data Analysis with Python  
+- Google Gen AI Academy 2.0
+- NVIDIA — Building AI Agents with Multimodal Models
+- Oracle Academy — Database Programming with SQL
+- NPTEL — Design Thinking: A Primer
+- GeeksforGeeks — DSA Self-Paced
+- **15+ certifications overall**
 
 ---
 
-## 💡 Strengths
+## 🎯 Current Focus
 
-- Strong debugging & problem-solving  
-- Clean, modular coding style  
-- Team collaboration  
-- Quick learner & adaptive  
+```text
+Machine Learning
+      ↓
+Data Science & Analytics
+      ↓
+Computer Vision
+      ↓
+Real-world AI Systems
+      ↓
+Stronger DSA + Core CS
+```
+
+Currently focused on:
+
+- 🧠 Strengthening Machine Learning fundamentals
+- 📊 Growing in Data Science & Data Analytics
+- 👁️ Building Computer Vision projects
+- 🧪 Working on real-world SIH problem statements
+- 💻 Improving DSA and problem-solving
+- 🚀 Turning projects into stronger, practical systems
 
 ---
 
-## 🌱 Currently
+## 💪 Strengths
 
-- Practicing **DSA consistently**
-- Building **industry-focused projects**
-- Exploring **AI-powered applications**
+- Responsibility
+- Persistence
+- Teamwork
+- Fast learning
+- Calmness under pressure
+
+---
+
+## 🎮 Interests
+
+Sports • Mathematics • Music • Gaming • Exploring Technology
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/mahipal-malti-80b1803272  
-🐙 GitHub: https://github.com/Mahi56145  
+- 💼 [LinkedIn](https://linkedin.com/in/mahi56145)
+- 🐙 [GitHub](https://github.com/Mahi56145)
+- 🧩 [LeetCode](https://leetcode.com/u/Mahi6727/)
+- 🏆 [GeeksforGeeks](https://www.geeksforgeeks.org/user/mahi56145/)
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
-🚀 *Always open to collaboration & opportunities*
+### 💡 *Learn. Build. Improve. Repeat.*
+
+⭐ Always building, learning and exploring new technologies.
